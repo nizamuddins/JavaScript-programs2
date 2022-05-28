@@ -2,11 +2,11 @@ function about(hobby, favMusician) {
     console.log(this.firstName, this.age, hobby, favMusician);
 }
 const user1 = {
-    firstName: "harshit",
+    firstName: "nizam",
     age: 8
 }
 const user2 = {
-    firstName: "mohit",
+    firstName: "nayeem",
     age: 9
 }
 
